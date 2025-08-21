@@ -1,0 +1,10 @@
+Input:
+- First name
+- Last name
+
+Process:
+- Store first and last name
+- Format greeting with last name
+
+Output:
+- "Hello [last name]"

@@ -1,0 +1,8 @@
+Input:
+- Three integers (n1, n2, n3)
+
+Process:
+- Compute result = (n1 + n2) * n3
+
+Output:
+- Display result

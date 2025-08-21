@@ -1,0 +1,9 @@
+Input:
+- Last name
+- Score
+
+Process:
+- Combine last name and score in a formatted message
+
+Output:
+- "[last name] has a score of [score]"

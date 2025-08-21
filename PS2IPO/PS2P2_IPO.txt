@@ -1,0 +1,8 @@
+Input:
+- Two real numbers
+
+Process:
+- Add the two numbers to compute the sum
+
+Output:
+- Display sum

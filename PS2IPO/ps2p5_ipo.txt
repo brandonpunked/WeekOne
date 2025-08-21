@@ -1,0 +1,10 @@
+Input:
+- Two real numbers
+
+Process:
+- Compute sum = num1 + num2
+- Compute product = num1 * num2
+- Compute difference = num1 - num2
+
+Output:
+- Display sum, product, and difference
